@@ -1,58 +1,11 @@
-# Core Web Framework
 streamlit>=1.28.0
-
-# Data Processing & Analysis
 pandas>=2.0.0
 numpy>=1.24.0
-
-# HTTP Requests
 requests>=2.31.0
-
-# Technical Analysis Library
 ta>=0.10.2
-
-# Date & Time Utilities (usually included with Python, but explicit for clarity)
 python-dateutil>=2.8.0
-
-# Additional Dependencies for Streamlit Enhancements
 plotly>=5.15.0
 altair>=5.0.0
-
-# Optional: For better performance
 pyarrow>=12.0.0
 fastparquet>=2023.0.0
-
-# Core Streamlit Framework
-streamlit>=1.28.0
-
-# Data Processing & Analysis
-pandas>=2.0.0
-numpy>=1.24.0
-
-# HTTP Requests & Async
-requests>=2.31.0
 aiohttp>=3.8.0
-
-# Technical Analysis Library
-ta>=0.10.2
-
-# Date & Time Handling
-python-dateutil>=2.8.2
-
-# Async Programming
-#asyncio
-
-# Additional Utilities
-#warnings
-#concurrent.futures
-io
-time
-
-# Optional: For better performance
-numba>=0.57.0
-
-# Optional: For advanced caching
-
-redis>=4.5.0
-
-aiohttp
